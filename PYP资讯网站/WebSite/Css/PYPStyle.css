@@ -1,0 +1,10 @@
+﻿body {
+}
+.datalist{ border:1px solid #0058a3;	/*表格边框*/
+            font-family: Verdana, Geneva, sans-serif;
+             border-collapse:collapse;	/*边框重叠*/
+              background-color:#eaf5ff; /*表格背景色*/
+               font-size:14px;}
+.datalist tr.altrow
+{ background-color:#c7e5ff;/*隔行变色*/
+}

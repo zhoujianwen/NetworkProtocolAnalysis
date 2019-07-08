@@ -1,0 +1,49 @@
+﻿body {
+}
+#footerAscs
+{
+	width: 1136px;
+	margin: 0;
+	padding: 0;	font-family: 微软雅黑,Verdana, Geneva, sans-serif;
+	font-size: 18px;
+
+	height: 142px;
+	color: #CCCCCC;
+}
+#hr
+{
+	height:10px;
+	background-color:#d5d5d5;
+}
+#footerContent
+{
+		height:171px;
+		background-color:#313131;
+}
+#footerAscs #CopyRight
+{
+	font-size: 12px;
+	clear:both;
+	text-align:center; vertical-align:middle;
+	height: 31px;
+}
+#table{}
+#table th{		font-size:18px; }
+#table tr{		font-size:12px; text-align:center; vertical-align:middle;}
+#table td{  width:80px;}
+
+.Blocks{ 	float:left;position:relative;font-size:12px; text-align:center; vertical-align:middle;
+	top: 7px;
+	left: 11px;
+	height: 136px;
+	width: 136px;
+    margin-left:50px;
+}
+.Blocks .title{font-size:18px;}
+
+#footerAscs a:link {    color:#CCCCCC;  
+  text-decoration:none;   
+ }     
+#footerAscs a:visited {    color:#006396;  text-decoration:none; } 
+#footerAscs a:hover {    color:#000000;   text-decoration:underline;  }  
+#footerAscs a:active {    color:#FFFFFF;   text-decoration:none;  }  
